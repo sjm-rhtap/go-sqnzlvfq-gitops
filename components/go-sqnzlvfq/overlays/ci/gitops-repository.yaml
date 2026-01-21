@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-sqnzlvfq-gitops-repository
+spec:
+  url: https://github.com/sjm-rhtap/go-sqnzlvfq-gitops
